@@ -1,6 +1,6 @@
 export const product1 = {
     id: '1',
-    title: 'Coffe Mug - No Image',
+    title: 'Coffe Mug - No Image!',
     // img: './coffeepot.png',
   };
 

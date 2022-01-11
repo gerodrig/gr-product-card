@@ -15,7 +15,7 @@ exports[`tests in ProductTitle component should show the title as product name i
   <span
     className="productDescription undefined"
   >
-    Coffe Mug - No Image
+    Coffe Mug - No Image!
   </span>
 </div>
 `;
