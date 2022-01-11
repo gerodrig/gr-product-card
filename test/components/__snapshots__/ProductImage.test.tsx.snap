@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests in ProductImage component should render ProductTitle component with the custom title 1`] = `
+<img
+  alt="Product"
+  className="productImg undefined"
+  src="./test.jpg"
+/>
+`;
+
+exports[`tests in ProductImage component should show the image path 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+    style={
+      Object {
+        "backgroundColor": "black",
+      }
+    }
+  />
+</div>
+`;
